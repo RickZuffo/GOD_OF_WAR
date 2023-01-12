@@ -2,9 +2,9 @@
     padding-top: 16.4rem;
     padding-bottom: 10.3rem;
     background-image: url("../IMG/bg-hero.jpg");
-    background-position: top center;
+    background-position: center center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    
     height: 80rem;
     //display: none;
             .container{
@@ -155,7 +155,6 @@
     .container{
         flex-direction: column;
         align-items: center;
-        margin-top: -19px;
         .right{
             text-align: center;
             .age{
